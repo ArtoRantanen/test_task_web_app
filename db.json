@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "Form1", "fields": {"my_email": "email", "my_phone": "phone", "my_message": "text"}}, "2": {"name": "ContactForm", "fields": {"user_email": "email", "user_phone": "phone", "user_message": "text", "start_date": "date"}}, "3": {"name": "Customer", "fields": {"customer_email": "email", "customer_phone": "phone", "order_date": "date"}}}}
